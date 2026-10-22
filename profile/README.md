@@ -6,7 +6,7 @@ A retail chain needs something its business does differently. You build it on a 
 
 | Start here | What you get |
 |---|---|
-| [The partner kit](https://github.com/ivendnext-developers/partner-kit) | The guide, recipes, API description, contracts, tools and thirty-two worked samples. Open source, Apache-2.0. |
+| [The partner kit](https://github.com/ivendnext-developers/partner-kit) | The guide, recipes, API description, contracts, tools and thirty-four worked samples, most with tests you run on your laptop with Python 3 alone. Open source, Apache-2.0. |
 | [developer.ivendnext.com](https://developer.ivendnext.com/) | The same guide as a searchable site, and the page to request a sandbox. |
 | [The App library](https://library.ivendnext.app) | Where apps are listed and installed, and [how apps run](https://library.ivendnext.app/how-apps-run). |
 | [Become an iVendNext Partner](https://www.ivendnext.com/partner/) | How to join, and what the partner programme offers. |
